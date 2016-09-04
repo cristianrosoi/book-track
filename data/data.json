@@ -1,0 +1,118 @@
+[
+
+	{
+		"title": "Steve Jobs",
+		"author" : "Walter Isaacson",
+		"img": "img/steve-jobs.jpg",
+		"alt": "Steve Jobs Biography",
+		"isbn": "9789731931977",
+		"releaseDate" : "2012",
+		"publisher" : "Publica",
+		"goodReads" : "https://www.goodreads.com/book/show/11084145-steve-jobs",
+		"dateAdded" : "2012"
+	},
+
+	{
+		"title": "Confesiunile Unui Asasin Economic",
+		"author" : "John Perkins",
+		"img": "img/confesiunile-unui-assasin-economic.jpg",
+		"alt": "Confesiunile unui assasin economic",
+		"isbn": "9789736758164",
+		"releaseDate" : "2010",
+		"publisher" : "Litera",
+		"goodReads" : "https://www.goodreads.com/book/show/13509799-confesiunile-unui-asasin-economic",
+		"dateAdded" : "2014"
+
+	},
+
+	{
+		"title": "Scafandrul Si Fluturele",
+		"author" : "Jean-Dominique Bauby",
+		"img": "img/scafandrul-si-fluturele.jpg",
+		"alt": "Scafandrul si fluturele",
+		"isbn": "9789735020583",
+		"releaseDate" : "2008",
+		"publisher" : "Humanitas",
+		"goodReads" : "https://www.goodreads.com/book/show/15846250-scafandrul-i-fluturele",
+		"dateAdded" : "2008"
+
+	},
+
+	{
+		"title": "Tata Bogat Tata Sarac",
+		"author" : "Robert Kyiosaki",
+		"img": "img/tata-bogat-tata-sarac.jpg",
+		"alt": "alt texte here",
+		"isbn": "9789736696268",
+		"releaseDate" : "2008",
+		"publisher" : "Curtea Veche",
+		"goodReads" : "https://www.goodreads.com/book/show/15821583-tat-bogat-tat-s-rac-educa-ia-financiar-n-familie",
+		"dateAdded" : "2010"
+
+	},
+
+		{
+		"title": "Scoala de Afaceri",
+		"author" : "Robert Kyiosaki",
+		"img": "img/scoala-de-afaceri.jpg",
+		"alt": "Scoala de Afaceri",
+		"isbn": "9789736696114",
+		"releaseDate" : "2008",
+		"publisher" : "Curtea Veche",
+		"goodReads" : "https://www.goodreads.com/book/show/30123211-coala-de-afaceri-pentru-oamenii-c-rora-le-place-s-i-ajute-pe-al-ii",
+		"dateAdded" : "2010"
+	},
+
+	{
+		"title": "Cel mai Bogat Om din Babylon",
+		"author" : "George Clason",
+		"img": "img/cel-mai-bogat-om-din-babilon.jpg",
+		"alt": "Cel mai Bogat Om din Babylon",
+		"isbn": "9789737780027",
+		"releaseDate" : "2004",
+		"publisher" : "Amaltea",
+		"goodReads" : "https://www.goodreads.com/book/show/15821539-cel-mai-bogat-om-din-babilon?from_search=true",
+		"dateAdded" : "2014"
+
+	},
+
+	{
+		"title": "De la Idee la Bani",
+		"author" : "Napoleon Hill",
+		"img": "img/think-and-grow-rich.jpg",
+		"alt": "De la Idee la Bani",
+		"isbn": "9786065884892",
+		"releaseDate" : "2013",
+		"publisher" : "Curtea Veche",
+		"goodReads" : "https://www.goodreads.com/book/show/30186948-think-and-grow-rich",
+		"dateAdded" : "2013"
+
+	},
+
+	{
+		"title": "The Parable of the Pipeline",
+		"author" : "Burke Hedges",
+		"img": "img/the-parable-of-the-pipeline.jpg",
+		"alt": "The Parable of the Pipeline",
+		"isbn": "9789736695360",
+		"releaseDate" : "2008",
+		"publisher" : "Curtea Veche",
+		"goodReads" : "https://www.goodreads.com/book/show/1564073.The_Parable_of_the_Pipeline",
+		"dateAdded" : "2013"
+
+	},
+
+	{
+		"title": "Networking",
+		"author" : "Filipe Carerra",
+		"img": "img/networking.jpg",
+		"alt": "alt texte here",
+		"isbn": "9789737225412",
+		"releaseDate" : "2010",
+		"publisher" : "Rentrop and Straton",
+		"goodReads" : "https://www.goodreads.com/book/show/22103741-networking",
+		"dateAdded" : "2010"
+
+	}
+
+]
